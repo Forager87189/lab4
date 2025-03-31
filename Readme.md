@@ -1,3 +1,3 @@
-LAB4 Seongjun
+# LAB4 Seongjun
 
-hello
+hello I am Kyeonbook National Univ student
